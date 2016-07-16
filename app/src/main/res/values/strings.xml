@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test_BroadcastReceiver</string>
+    <string name="ip">请输入IP号码</string>
+    <string name="setIp">设置IP号码</string>
+</resources>
